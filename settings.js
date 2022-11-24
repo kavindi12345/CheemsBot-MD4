@@ -110,7 +110,7 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    public: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'In process...',
     linkm: 'Where is the link?',
